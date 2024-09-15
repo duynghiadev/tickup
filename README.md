@@ -2,6 +2,11 @@
 
 [Link Github từ repo Tech Mely](https://github.com/techmely/tickup)
 
+**Contact:**
+
+- name: duynghiadev
+- github: https://github.com/duynghiadev
+
 ![image](https://raw.githubusercontent.com/techmely/tickup/main/public/images/Thumbnail.png)
 
 Repo này là kết quả của [Series Build Product Fast](https://www.youtube.com/watch?v=XQzO26ak38Y&list=PLwJIrGynFq9B9_yPQjLdFj6Ziv9jRmCd5), nếu bạn không có thời gian để xem videos, hãy Star repo và clone về để dùng cho riêng bạn
